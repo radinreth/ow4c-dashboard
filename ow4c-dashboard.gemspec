@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = Ow4c::Dashboard::VERSION
   spec.authors     = ["radinreth"]
   spec.email       = ["radin.reth@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of Ow4c::Dashboard."
-  spec.description = "TODO: Description of Ow4c::Dashboard."
+  spec.homepage    = "https://dashboard.ow4c.info/"
+  spec.summary     = "Summary of Ow4c::Dashboard."
+  spec.description = "Description of Ow4c::Dashboard."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
